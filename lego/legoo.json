@@ -6,7 +6,10 @@
      "setTheme": "Spider-Man",
      "year":"2004",
      "imgSrc": "001.jpg",
-     "id": "tom"
+     "id": "i1",
+     
+
+    
    },
    {
      "setName": "LEGO Instructions 3828 Air Temple",
@@ -14,7 +17,7 @@
      "setTheme": "Avatar: The Last Airbender",
      "year":"2006",
      "imgSrc": "002.jpg",
-     "id": "tom"
+     "id": "i2"
    },
     {
      "setName": "LEGO Instructions 4709 Hogwarts Castle",
@@ -22,7 +25,7 @@
      "setTheme": "Harry Potter",
      "year":"2001",
      "imgSrc": "003.jpg",
-     "id": "tom"
+     "id": "i3"
    }
  ]
 }
