@@ -7,6 +7,7 @@
      "year":"2004",
      "imgSrc": "001.jpg",
      "id": "i1",
+     "imgIst": ["007.jpg","008.jpg","009.jpg"]
      
 
     
@@ -17,7 +18,8 @@
      "setTheme": "Avatar: The Last Airbender",
      "year":"2006",
      "imgSrc": "002.jpg",
-     "id": "i2"
+     "id": "i2",
+     "imgIst": ["21.jpg","22.jpg","23.jpg"]
    },
     {
      "setName": "LEGO Instructions 4709 Hogwarts Castle",
@@ -25,7 +27,8 @@
      "setTheme": "Harry Potter",
      "year":"2001",
      "imgSrc": "003.jpg",
-     "id": "i3"
+     "id": "i3",
+     "imgIst": ["10.jpg","11.jpg","12.jpg","13.jpg"]
    }
  ]
 }
